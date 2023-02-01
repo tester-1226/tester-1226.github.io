@@ -14,7 +14,7 @@
 #p1g{
     position: absolute;
     top: 40%;
-    left: 20%;
+    left: 15%;
     border-radius: 100%;
     width: 150px;
     height: 150px;
@@ -23,7 +23,7 @@
 #p2g{
     position: absolute;
     top: 40%;
-    right: 20%;
+    right: 15%;
     border-radius: 100%;
     width: 150px;
     height: 150px;
